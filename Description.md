@@ -10,3 +10,4 @@
   - Copied my Azure server name and pasted in the space asking for the hostname, also ensured that the port number has remained at the default ```3306``` which matches the default port set on my Azure SQL server
   - Lastly clicked on ```store in keychain``` and provided the password that was typed in when creating the database on Azure
   - Clicked on ```Test Connection``` and the connection was made successfully.
+  - 
