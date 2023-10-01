@@ -1,1 +1,8 @@
-
+## My SQL Setup on Azure:
+- First I used the account that I had previously created on Azure
+- Then I created a new resource group on the Azure platform and created an SQL server
+- There I made sure to have it open to the public and since no information was used that would compromise any PHI the IP address was set to all by typing ```0.0.0.0/0```
+- Then selected the appropriate settings for the budget that is provided, set up my server, and went ahead and created it.
+- Opened my My SQL Workbench and created another instance under the SQL Connections
+- In that pop-up window, I named my connection as ```Azure-ang504-4``` and filled in the rest as shown below
+  - Ensured that the hostname matched the name of my SQL served and that the port number has remained at the default 3306 which matches the default port set on my Azure SQL server
