@@ -13,5 +13,5 @@
  <img width="600" alt="Screenshot 2023-10-01 at 7 28 00 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/c82687d0-6b6f-48d2-9f9a-fc3ee8a29d4e">
 
   - Clicked on ```Test Connection``` and the connection was made successfully.
-<img width="200" alt="Screenshot 2023-10-01 at 7 28 27 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/bd0d99b1-2366-41b8-9c66-894a00bd25b3">
+<img width="333" alt="Screenshot 2023-10-01 at 7 28 27 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/bd0d99b1-2366-41b8-9c66-894a00bd25b3">
 
