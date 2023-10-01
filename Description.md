@@ -4,7 +4,7 @@
 - There I made sure to have it open to the public and since no information was used that would compromise any PHI the IP address was set to all by typing ```0.0.0.0/0```
 - Then selected the appropriate settings for the budget that is provided, set up my server, and went ahead and created it.
 - Opened my My SQL Workbench and created another instance under the SQL Connections
-- In that pop-up window, I named my connection as ```Azure-ang504-4``` and **filled in the rest as shown below** under the ```Parameters``` tab
+- In that pop-up window, I named my connection as ```Azure-ang504-4``` and _**filled in the rest as shown below**_ under the ```Parameters``` tab
   - Ensured that the username matched the name of my SQL database.
   - Copied my Azure server name and pasted in the space asking for the hostname, also ensured that the port number has remained at the default ```3306``` which matches the default port set on my Azure SQL server
   - Lastly clicked on ```store in keychain``` and provided the password that was typed in when creating the database on Azure
