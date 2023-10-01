@@ -10,8 +10,8 @@
   - Ensured that the username matched the name of my SQL database.
   - Copied my Azure server name and pasted in the space asking for the hostname, also ensured that the port number has remained at the default ```3306``` which matches the default port set on my Azure SQL server
   - Lastly clicked on ```store in keychain``` and provided the password that was typed in when creating the database on Azure
-  - <img width="930" alt="Screenshot 2023-10-01 at 7 28 00 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/c82687d0-6b6f-48d2-9f9a-fc3ee8a29d4e">
+ <img width="930" alt="Screenshot 2023-10-01 at 7 28 00 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/c82687d0-6b6f-48d2-9f9a-fc3ee8a29d4e">
 
   - Clicked on ```Test Connection``` and the connection was made successfully.
-<img width="453" alt="Screenshot 2023-10-01 at 7 28 27 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/bd0d99b1-2366-41b8-9c66-894a00bd25b3">
+<img width="200" alt="Screenshot 2023-10-01 at 7 28 27 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/bd0d99b1-2366-41b8-9c66-894a00bd25b3">
 
