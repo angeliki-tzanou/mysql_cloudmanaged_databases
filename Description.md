@@ -23,10 +23,18 @@
 
 - After the tables were created, I clicked on the Database tab and selected the Reverse Engineer (or command R for Mac users) to create my ERD diagram
 - In the pop-up window continued through all the steps while selecting my database and my ERD diagram was generated as shown below:
-<img width="1715" alt="erd 1" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/bfb425da-51a1-4b0f-b2b5-90155ac45ca5">
+<img width="1000" alt="erd 1" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/bfb425da-51a1-4b0f-b2b5-90155ac45ca5">
 
 - On the bottom when clicking the "Foreign Key" tab you also have the option to edit the relationship between the tables depicted nad change their cardinality from 1 to many, to 1 to 1 as shown above.
 - Thats how the EER diagram can be generated.
 
 ## My SQL setup on GCP:
+- Following a similar process with above, I logged into my GCP account and clicked to enter my main console
+- From there I selected from the dropdown to create a new project
+- Then under the hamburger icon selected SQL and created a new server
+- During the setup process, ensured that stayed within the budget of a low-cost plan and like above had the server open publicly and allowed all to enter through the addition of the 0.0.0.0/0 IP address.
+- When satisfied with the options that were picked and clicked on to create the server it took around 13 mins for it to finalize its creation.
+- When created I was redirected to the overview of my server that looked like the pictures shown below:
+![Image 10-1-23 at 9 00 PM](https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/7c633c57-3250-49b3-8364-9352cd308ac5)
+
 
