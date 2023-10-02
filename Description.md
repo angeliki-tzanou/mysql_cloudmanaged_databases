@@ -23,6 +23,10 @@
 
 - After the tables were created, I clicked on the Database tab and selected the Reverse Engineer (or command R for Mac users) to create my ERD diagram
 - In the pop-up window continued through all the steps while selecting my database and my ERD diagram was generated as shown below:
-  
-<img width="1715" alt="erd 1" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/c229d6c5-905e-4e3e-a1f1-266371c5befe">
+<img width="1715" alt="erd 1" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/bfb425da-51a1-4b0f-b2b5-90155ac45ca5">
+
+- On the bottom when clicking the "Foreign Key" tab you also have the option to edit the relationship between the tables depicted nad change their cardinality from 1 to many, to 1 to 1 as shown above.
+- Thats how the EER diagram can be generated.
+
+## My SQL setup on GCP:
 
