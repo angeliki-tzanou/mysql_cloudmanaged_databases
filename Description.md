@@ -51,4 +51,8 @@
   - By creating a new query and a new database following the same commands as the ones above
   - With the only difference of the code entered which in this case was the one below:
   ![Image 10-1-23 at 9 10 PM](https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/a194766d-8f88-494a-8ff2-2d79965ef247)
+- Then as previously described clicked on the "Database" tab and selected Reverse Engineer where I generated my ERD diagram:
+  ![Image 10-1-23 at 9 13 PM](https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/c4030761-d2db-4ade-8148-79eaecca11af)
+
+
 
