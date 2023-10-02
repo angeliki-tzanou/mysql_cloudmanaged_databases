@@ -21,7 +21,5 @@
 - Then proceeded with adding a new query tab where I pasted the code that was used for this instance, ran it and ensured that the tables were created successfully:
 <img width="1000" alt="Screenshot 2023-10-01 at 8 05 33 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/9ee55975-e7b7-48a2-a290-0ff392f84e2d">
 
-
-
 - 
 
