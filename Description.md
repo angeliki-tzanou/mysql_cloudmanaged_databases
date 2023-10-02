@@ -54,5 +54,8 @@
 - Then as previously described clicked on the "Database" tab and selected Reverse Engineer where I generated my ERD diagram:
   ![Image 10-1-23 at 9 13 PM](https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/c4030761-d2db-4ade-8148-79eaecca11af)
 
+- Then I was able to go into my Google Shell console and access the SQL monitor by using the command ```mysql --host <IP address> --user <username> --password```
+- After doing so it asked to enter the password, which is the same one used when setting up the GCP server.
+<img width="1000" alt="Screenshot 2023-10-01 at 2 20 58 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/100c230e-bfa2-40d6-8f6a-28f2a4218877">
 
-
+<img width="846" alt="Screenshot 2023-10-01 at 2 21 32 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/1ee4c89a-e289-45d8-89da-75312e32079f">
