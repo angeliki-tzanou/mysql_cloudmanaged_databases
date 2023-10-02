@@ -56,6 +56,6 @@
 
 - Then I was able to go into my Google Shell console and access the SQL monitor by using the command ```mysql --host <IP address> --user <username> --password```
 - After doing so it asked to enter the password, which is the same one used when setting up the GCP server.
-<img width="1000" alt="Screenshot 2023-10-01 at 2 20 58 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/100c230e-bfa2-40d6-8f6a-28f2a4218877">
+<img width="900" alt="Screenshot 2023-10-01 at 2 20 58 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/100c230e-bfa2-40d6-8f6a-28f2a4218877">
 
-<img width="846" alt="Screenshot 2023-10-01 at 2 21 32 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/1ee4c89a-e289-45d8-89da-75312e32079f">
+<img width="700" alt="Screenshot 2023-10-01 at 2 21 32 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/1ee4c89a-e289-45d8-89da-75312e32079f">
