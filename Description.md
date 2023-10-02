@@ -15,6 +15,11 @@
   - Clicked on ```Test Connection``` and the connection was made successfully.
 <img width="333" alt="Screenshot 2023-10-01 at 7 28 27 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/bd0d99b1-2366-41b8-9c66-894a00bd25b3">
 
-- After doing so and accessing my SQL workbench console I went ahead to File and created a new query tab in which I typed my code to create my database as follows:
+- After doing so and accessing my SQL workbench console I went ahead to File and created a new query tab in which I typed my code to create my database as follows, while also ensuring that everything ran properly from the action output terminal on the bottom:
   <img width="900" alt="Screenshot 2023-10-01 at 7 50 59 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/9e9c57de-103a-44f9-a94f-ee66cf4e2f90">
+
+- Then proceeded with adding a new query tab where I pasted the code that was used for this instance, ran it and ensured that the tables were created successfully:
+<img width="1000" alt="Screenshot 2023-10-01 at 8 03 10 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/07fa5376-8634-4e21-b013-46b07c6eae7a">
+
+
 
