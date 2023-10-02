@@ -44,4 +44,4 @@
 <img width="1000" alt="Screenshot 2023-10-01 at 9 03 59 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/e4110a86-5e71-4dec-a753-3ac081dcfcd6">
 
 - After filling in the necessary information as shown above, I tested the connection to ensure that it has connected successfully:
-<img width="627" alt="Screenshot 2023-10-01 at 9 06 29 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/e5665213-e25b-4433-9359-5d7ce6059d6a">
+<img width="444" alt="Screenshot 2023-10-01 at 9 06 29 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/e5665213-e25b-4433-9359-5d7ce6059d6a">
