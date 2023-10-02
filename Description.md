@@ -45,3 +45,8 @@
 
 - After filling in the necessary information as shown above, I tested the connection to ensure that it has connected successfully:
 <img width="444" alt="Screenshot 2023-10-01 at 9 06 29 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/e5665213-e25b-4433-9359-5d7ce6059d6a">
+
+- Then after doing so, I clicked on the connection that I had just created on my dashboard and entered my workbench console.
+- There I repeated the same steps as for the Azure one above
+  - By creating a new query and a new database following the same commands as the ones above
+  - With the only difference of the code entered which in this case was the one below:
