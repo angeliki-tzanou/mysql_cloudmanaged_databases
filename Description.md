@@ -21,5 +21,8 @@
 - Then proceeded with adding a new query tab where I pasted the code that was used for this instance, ran it and ensured that the tables were created successfully:
 <img width="1000" alt="Screenshot 2023-10-01 at 8 05 33 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/9ee55975-e7b7-48a2-a290-0ff392f84e2d">
 
-- 
+- After the tables were created, I clicked on the Database tab and selected the Reverse Engineer (or command R for Mac users) to create my ERD diagram
+- In the pop-up window continued through all the steps while selecting my database and my ERD diagram was generated as shown below:
+  
+<img width="1715" alt="erd 1" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/c229d6c5-905e-4e3e-a1f1-266371c5befe">
 
