@@ -34,7 +34,11 @@
 - Then under the hamburger icon selected SQL and created a new server
 - During the setup process, ensured that stayed within the budget of a low-cost plan and like above had the server open publicly and allowed all to enter through the addition of the 0.0.0.0/0 IP address.
 - When satisfied with the options that were picked and clicked on to create the server it took around 13 mins for it to finalize its creation.
-- When created I was redirected to the overview of my server that looked like the pictures shown below:
+- When created, I was redirected to the overview of my server that looked like the pictures shown below:
 ![Image 10-1-23 at 9 00 PM](https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/7c633c57-3250-49b3-8364-9352cd308ac5)
 
-
+- The proceeded by going into my SQL workbench and creating another connection linking it into my GCP account by filling in the following:
+  - Replaced my hostname with my public IP address showing up on the dashboard
+  - Ensured the port ```3306``` remained at its default
+  - Clicked once again on the "Store in Keychain" option to enter the password used when initially creating the GCP server
+<img width="1210" alt="Screenshot 2023-10-01 at 9 03 59 PM" src="https://github.com/angeliki-tzanou/mysql_cloudmanaged_databases/assets/141374140/e4110a86-5e71-4dec-a753-3ac081dcfcd6">
